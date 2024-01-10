@@ -1,12 +1,13 @@
 
 ![My project-1(2)](https://github.com/1n8adev/1n8adev/blob/main/SCR-20240110-twuf.png?raw=true)
 
-[![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f)](https://github.com/inbasekaran18) <!--[![Read the Docs Badge](https://img.shields.io/badge/-read_the_docs-white?style=for-the-badge&logo=read-the-docs&logoColor=8ca1af)](https://readthedocs.org/profiles/bilardi/) --> <!--[![Resume Badge](https://img.shields.io/badge/-resume-white?style=for-the-badge&logo=google-scholar&logoColor=ff7102)](https://drive.google.com/file/d/1fXsAROMzKAaDZfIUq5k3BYXqfPAWU0YT/view?usp=sharing) --> [![Stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-white?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)]([https://stackexchange.com/users/16445451/inba-sekar])
+[![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f)](https://github.com/1n8adev) <!--[![Read the Docs Badge](https://img.shields.io/badge/-read_the_docs-white?style=for-the-badge&logo=read-the-docs&logoColor=8ca1af)](https://readthedocs.org/profiles/bilardi/) --> <!--[![Resume Badge](https://img.shields.io/badge/-resume-white?style=for-the-badge&logo=google-scholar&logoColor=ff7102)](https://drive.google.com/file/d/1fXsAROMzKAaDZfIUq5k3BYXqfPAWU0YT/view?usp=sharing) --> [![Stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-white?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)]([https://stackoverflow.com/users/23178926/suresh])
 
-Experienced in creating and delivering user-eccentric applications and solutions,I look forward
-to bringing my strong creative, technical, and analytical skills to the Full stack development.
-Throughout my career, I have been acknowledged as a solution-focused professional with the ability to design
-and develop innovative applications using advanced technologies.
+With more than ten years of professional experience as a full-stack developer, I have successfully led projects from their initial concept to final completion. My role often extends beyond development; I have significantly enhanced and scaled up numerous legacy applications.
+
+My deep-rooted passion for programming is complemented by my expertise in designing robust architectural solutions and implementing them efficiently in cloud-based environments.
+
+I have a versatile project portfolio that covers a wide range of business sectors, including B2B, Healthcare, Marketplace, On-Demand Services, CRM, and more
 
 
 ### Languages
@@ -62,7 +63,5 @@ and develop innovative applications using advanced technologies.
 
 ### My Projects
 
-[![](https://img.shields.io/badge/-%F0%9F%A7%AC%20Digital%20Currency%20analytics%20with%20lambda-000)](https://github.com/inbasekaran18/cryptoapp-react-challenge)
-[![](https://img.shields.io/badge/-%F0%9F%A6%A0%20React%20app%20with%20saga-000)](https://github.com/inbasekaran18/code-challange-react)
 
-<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=inbasekaran18&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbasekaran18&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=1n8adev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1n8adev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
