@@ -60,8 +60,4 @@ I have a versatile project portfolio that covers a wide range of business sector
 ![RALLY](https://img.shields.io/badge/-RALLY-000?&logo=rally)
 
 
-
-### My Projects
-
-
 ![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=1n8adev&show_icons=true&theme=merko)
